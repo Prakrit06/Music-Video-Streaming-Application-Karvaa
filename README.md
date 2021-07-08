@@ -24,3 +24,6 @@ You will have 5 options to choose.
 4> Netflix: After clicking the Netflix website will open inside the app and you can enjoy and chill.
 5> Today's Special: you can also enjoy a preloaded song by accessing today,s special.
 
+
+
+![Screenshot (840)](https://user-images.githubusercontent.com/70273329/124926550-49b0e280-e01b-11eb-939a-1f37d53e7a31.png)
