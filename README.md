@@ -1,7 +1,7 @@
 # Music-Video-Streaming-Application-Karvaa
 This is a not just any music player application it is a one step solutuion for all entertainment needs, you can stream in platforms like Netflix, Youtube, Radio as well as listen to your favourite song with a very interactive UI design.
 
-You can run the app on Apetize.io here(https://appetize.io/app/way56gu3b6r3hnbnpqnkgf1arm?device=nexus5&scale=75&orientation=portrait&osVersion=8.1).
+You can run the app on Apetize.io [here](https://appetize.io/app/way56gu3b6r3hnbnpqnkgf1arm?device=nexus5&scale=75&orientation=portrait&osVersion=8.1).
 
 
 here is how the app icon looks
